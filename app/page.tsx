@@ -13,7 +13,7 @@ export default function Home() {
     {
       category: "clients",
       title: "Hook User Caught",
-      description: "Famous loudtester px caught using ascend's hook earlier this morning.",
+      description: "Famous loudtester Px caught using Ascend's hook earlier this morning.",
       date: "2024-13-12",
       badge: "Breaking",
       badgeColor: "destructive",
