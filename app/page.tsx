@@ -12,9 +12,9 @@ export default function Home() {
   const news = [
     {
       category: "clients",
-      title: "BetterDiscord User Banned",
-      description: "High-profile user caught using modified client, resulting in permanent account suspension",
-      date: "2024-03-21",
+      title: "Hook User Caught",
+      description: "Famous loudtester px caught using ascend's hook earlier this morning.",
+      date: "2024-13-12",
       badge: "Breaking",
       badgeColor: "destructive",
     },
