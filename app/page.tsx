@@ -20,9 +20,9 @@ export default function Home() {
     },
     {
       category: "api",
-      title: "Discord API v10 Released",
-      description: "Major updates to Gateway API including improved rate limits and new endpoints",
-      date: "2024-03-20",
+      title: "New Aethercord Voice Feature",
+      description: "A minor update was pushed sometime today in Aethercord which allowed users to get semi-priority speaker.",
+      date: "2024-13-12",
       badge: "Update",
       badgeColor: "primary",
     },
